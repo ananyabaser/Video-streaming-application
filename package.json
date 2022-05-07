@@ -1,0 +1,14 @@
+{
+  "name": "video-streaming-app",
+  "version": "1.0.0",
+  "description": "Video Streaming Application using NodeJS",
+  "main": "video-stream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanchet Nagarnaik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

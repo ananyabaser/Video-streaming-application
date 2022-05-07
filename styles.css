@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+}
+
+h2{
+    font-size: 3rem;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+    margin: 20px;
+}
+.videoPlayer{
+    height: 400px;
+    width: 800px;
+}
